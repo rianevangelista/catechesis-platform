@@ -1,4 +1,4 @@
-import screenMockup from "../../assets/images/screen-mockup.png";
+import screenMockup from "../assets/images/screen-mockup.png";
 import { useState, FormEvent } from "react";
 import { Logo } from "../components/Logo";
 import { useNavigate } from "react-router-dom";
