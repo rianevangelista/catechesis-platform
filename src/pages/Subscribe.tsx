@@ -1,3 +1,4 @@
+import screenMockup from "../../assets/images/screen-mockup.png";
 import { useState, FormEvent } from "react";
 import { Logo } from "../components/Logo";
 import { useNavigate } from "react-router-dom";
@@ -68,7 +69,7 @@ export function Subscribe() {
                
       </div>
 
-      <img src={"/assets/images/screen-mockup.png"} className="mt-10" alt="" />
+      <img src={ screenMockup } className="mt-10" alt="" />
 
     </div>
   );
