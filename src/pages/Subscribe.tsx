@@ -35,7 +35,7 @@ export function Subscribe() {
             Conheça a verdadeira <strong  className="text-yellow-500">fé católica</strong>!
            </h1>
            <p className="mt-4 text-gray-200 text-xl leading-relaxed">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit illum similique aspernatur. Id sint, atque veritatis modi possimus harum, consectetur dignissimos facere ad quam nobis exercitationem perferendis minus aspernatur illum?
+            Somos a plataforma que irá auxiliar você nos seus primeiros passos na fé católica. Nosso propósito é possibilitar para você o acesso a um conhecimento mais sólido a respeito da Fé, Tradição e Magistério da Igreja. Então não perca tempo e junte-se a gente nessa <strong>Jornada</strong>!
            </p>
         </div>
 
