@@ -7,12 +7,16 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        blur: 'url(/src/assets/images/blur-background.png)'
+        blur: 'url(/src/assets/images/blur-background.png)',
+        'img_bg_hero': 'url(/src/assets/images/bg-hero.png)',
       },
       fontFamily: {
         sans: 'Roboto, sans-serif',
       },
       colors: {
+        white: {
+          200: '#F9F9F9',
+        },
         green: {
           300: '#00B37E',
           500: '#00875F',
