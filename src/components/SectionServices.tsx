@@ -31,8 +31,8 @@ export function SectionServices () {
             </Container>
 
             <div className="absolute flex items-center top-0 right-0 w-[32%] h-full">
-                <img src={ phoneScreen } alt="smartphone exibindo a home page do aplicativo" className="translate-x-[-50%] translate-y-[180%] md:translate-x-[-20%] md:translate-y-[0%] sm:translate-y-[150%] sm:translate-x-[-100%]"/>
-            </div> 
+                <img src={ phoneScreen } alt="smartphone exibindo a home page do aplicativo" className="translate-x-[-50%] translate-y-[180%] md:translate-x-[-20%] md:translate-y-[0%] sm:translate-y-[150%] sm:translate-x-[-100%] min-[350px]:translate-y-[290%] min-[350px]:translate-x-[-100%] min-[400px]:translate-y-[255%] min-[400px]:translate-x-[-100%]"/>
+            </div>
         </section>
     )
 }
